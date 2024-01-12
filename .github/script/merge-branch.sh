@@ -20,3 +20,4 @@ then
 else
   echo "Branch $branch2 does not exist"
 fi
+ 
